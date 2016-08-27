@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MYG
 //
-//  Created by 李艳楠 on 16/8/24.
-//  Copyright © 2016年 Déesse. All rights reserved.
+//  Created by Apple on 16/8/27.
+//  Copyright © 2016年 Apple. All rights reserved.
 //
 
 import UIKit
