@@ -1,18 +1,23 @@
 PODS:
   - Alamofire (3.4.1)
+  - JSPatch (1.1):
+    - JSPatch/Core (= 1.1)
+  - JSPatch/Core (1.1)
   - SVProgressHUD (2.0.3)
   - SwiftyJSON (2.3.2)
 
 DEPENDENCIES:
   - Alamofire
+  - JSPatch
   - SVProgressHUD
   - SwiftyJSON
 
 SPEC CHECKSUMS:
   Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  JSPatch: ade285ad1d8f06146ed6054a39cef87509453299
   SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
   SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
 
-PODFILE CHECKSUM: 1bcf4343670758ab17560ea6c8f8f5253aad551b
+PODFILE CHECKSUM: c10d090d4e4ad710f6fd847ff431811db9e3c256
 
 COCOAPODS: 1.0.1
